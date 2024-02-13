@@ -1,7 +1,7 @@
 print("hello")
 print("deyyy")
 print("podeyyy")
-a=10
+a=10 
 b=20
 c=10+20
-print("30")
+print (c)
